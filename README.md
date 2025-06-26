@@ -13,7 +13,7 @@ Whether you're preparing for coding interviews, brushing up concepts, or buildin
 
 ## 📁 Folder Structure
 
-nterview-Prep/
+Interview-Prep/
 ├── DSA/ # Data Structures & Algorithm questions and notes
 ├── Python/ # Python concepts and coding patterns
 ├── ML/ # ML interview questions and explanations
