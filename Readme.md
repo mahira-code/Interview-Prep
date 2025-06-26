@@ -1,33 +1,23 @@
-# 🤖 Machine Learning Interview Preparation
+💼 Interview Preparation Repository
+Welcome! This repository is a structured collection of technical interview preparation materials across various domains including:
 
-This folder contains carefully curated notes, questions, and concept breakdowns to help you prepare for machine learning interviews — both theoretical and applied.
+🔢 Data Structures & Algorithms (DSA)
+🐍 Python Programming
+📊 Machine Learning Concepts
+⚛️ React Fundamentals
+Whether you're preparing for coding interviews, brushing up concepts, or building mastery — this is your one-stop resource hub.
 
----
+📁 Folder Structure
+Interview-Prep/ ├── DSA/ # Data Structures & Algorithm questions and notes ├── Python/ # Python concepts and coding patterns ├── ML/ # ML interview questions and explanations ├── React/ # ReactJS concepts, lifecycle, hooks, etc. └── README.md # Main overview (you're reading it!)
 
-## 📘 Topics Covered
+📌 Usage
+Each folder contains topic-wise Markdown files with explanations, tips, and example questions.
+Content is updated regularly.
+Ideal for quick review before interviews or as a daily learning companion.
+💡 Contribute
+Want to contribute or request a topic? Feel free to raise an issue or a pull request!
 
-- ✅ Supervised vs Unsupervised Learning
-- ✅ Regression Techniques (Linear, Logistic, Ridge, Lasso)
-- ✅ Classification Algorithms (SVM, Decision Trees, k-NN, Naive Bayes)
-- ✅ Ensemble Methods (Random Forest, XGBoost, Bagging & Boosting)
-- ✅ Bias-Variance Tradeoff
-- ✅ Overfitting vs Underfitting
-- ✅ Cross-validation techniques
-- ✅ Feature Selection & Engineering
-- ✅ Evaluation Metrics (Accuracy, Precision, Recall, F1, ROC-AUC)
-- ✅ Clustering (K-Means, Hierarchical, DBSCAN)
-- ✅ Dimensionality Reduction (PCA, t-SNE)
-- ✅ Model Deployment Basics (Optional)
-
----
-
-## 🧠 Format
-
-Each topic is documented in a Markdown file with:
-
-- 🔹 Summary explanation
-- 🔹 Example question & answer
-- 🔹 Real-world application
-- 🔹 Visual aids (where needed)
-
----
+⭐ Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mahira-banu/)
+- [Kaggle](https://www.kaggle.com/mahiradev)
+- [Portfolio](https://mahirabanu.com) 
