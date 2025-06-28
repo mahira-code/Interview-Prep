@@ -45,4 +45,5 @@ Want to contribute or request a topic? Feel free to raise an issue or a pull req
 
 - [LinkedIn](https://www.linkedin.com/in/mahira-banu/)
 - [Kaggle](https://www.kaggle.com/mahiradev)
-- [Portfolio](https://mahirabanu.com) 
+- [Portfolio](https://mahirabanu.com)
+- [dev.to](https://dev.to/mahira_banu) 
